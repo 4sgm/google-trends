@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 myenv/
 .idea/
+# Local restore snapshots (kept out of git to avoid bloat)
+archive/
